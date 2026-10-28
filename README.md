@@ -1,6 +1,6 @@
 # Parallel Hardware Matrix Multiplier (Verilog)
 
-*Course project for Digital Systems II (EEC 180), UC Davis, completed March 2026.*
+*Completed March 2026.*
 
 Hardware accelerator for 8x8 signed matrix multiplication, built in Verilog for an FPGA (Intel MAX 10 / DE10-Lite). The project starts from a single multiply-accumulate (MAC) unit and scales to a parallel design, measuring the speed vs. hardware-cost trade-off at each step.
 
